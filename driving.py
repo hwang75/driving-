@@ -11,3 +11,6 @@ elif region == '美国':
 		print('你可以考驾照')
 	else:
 		print('不可以')
+else:
+	print("你只可以输入美国和台湾")
+
